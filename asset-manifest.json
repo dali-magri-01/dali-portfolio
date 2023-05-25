@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/dali-portfolio/static/css/main.8e0bd78d.css",
-    "main.js": "/dali-portfolio/static/js/main.a584abe5.js",
+    "main.js": "/dali-portfolio/static/js/main.f58a2fd2.js",
     "static/js/787.fb771931.chunk.js": "/dali-portfolio/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/dali-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/dali-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/sa8.png": "/dali-portfolio/static/media/sa8.77314081122755cf29b7.png",
     "static/media/dali.png": "/dali-portfolio/static/media/dali.ec35538bb6891fa01964.png",
-    "static/media/project-img1.png": "/dali-portfolio/static/media/project-img1.535c84c60cbdcfabe59d.png",
+    "static/media/project-image6.png": "/dali-portfolio/static/media/project-image6.7c64f7a23b3d30faa3af.png",
     "static/media/banner-bg.png": "/dali-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/project-img1.png": "/dali-portfolio/static/media/project-img1.c8af09fdbea1c808d454.png",
     "static/media/project-img2.png": "/dali-portfolio/static/media/project-img2.a8d60aa7d6547faf8513.png",
     "static/media/CentraNo2-Bold.ttf": "/dali-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/dali-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -17,6 +19,7 @@
     "static/media/contact-img.svg": "/dali-portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/revicons.eot": "/dali-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/dali-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/bi3.png": "/dali-portfolio/static/media/bi3.865cfd04726866e0d333.png",
     "static/media/revicons.woff": "/dali-portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/meter2.svg": "/dali-portfolio/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
     "static/media/meter1.svg": "/dali-portfolio/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
@@ -29,11 +32,11 @@
     "static/media/arrow1.svg": "/dali-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/dali-portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.8e0bd78d.css.map": "/dali-portfolio/static/css/main.8e0bd78d.css.map",
-    "main.a584abe5.js.map": "/dali-portfolio/static/js/main.a584abe5.js.map",
+    "main.f58a2fd2.js.map": "/dali-portfolio/static/js/main.f58a2fd2.js.map",
     "787.fb771931.chunk.js.map": "/dali-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e0bd78d.css",
-    "static/js/main.a584abe5.js"
+    "static/js/main.f58a2fd2.js"
   ]
 }
