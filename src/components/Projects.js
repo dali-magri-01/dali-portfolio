@@ -17,7 +17,7 @@ export const Projects = () => {
     },
     {
       title: "CV Builder",
-      description: "Design & Development",
+      description: "Java & JavaFX",
       imgUrl: projImg2,
     },
     {
