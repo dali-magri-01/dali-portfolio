@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import contactImg from "../assets/img/contact-img.svg";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
+import Maps from "./Maps";
 
 export const Contact = () => {
   const formInitialDetails = {
@@ -64,6 +65,7 @@ export const Contact = () => {
                 
               </div>}
             </TrackVisibility>
+            <Maps/>
           </Col>
         </Row>
       </Container>
