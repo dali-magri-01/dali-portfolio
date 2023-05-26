@@ -15,7 +15,7 @@ const Maps = () => {
           <BeatLoader color="#123abc" />
         </div>
       )}
-        <iframe width="660" height="510" id="gmap_canvas" onLoad={handleMapLoad} src="https://maps.google.com/maps?q=enicarthage&t=&z=14&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+        <iframe width="500" height="510" id="gmap_canvas" onLoad={handleMapLoad} src="https://maps.google.com/maps?q=enicarthage&t=&z=14&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
     </div>
   )
 }

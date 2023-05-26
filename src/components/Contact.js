@@ -62,7 +62,8 @@ export const Contact = () => {
                 <h2>Get In Touch</h2>
                 <h4>You can contact me via email at mohamedali.magri@enicar.ucar.tn</h4>
                 <h4>Or connect with me on LinkedIn <a href="https://www.linkedin.com/in/mohamed-ali-magri-a1b633227/">LinkedIn</a></h4>
-                <Maps/>
+                 <br/>
+                 <div className="container shadow" ><Maps/></div>
               </div>}
             </TrackVisibility>
             
