@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dali-portfolio/static/css/main.8e0bd78d.css",
-    "main.js": "/dali-portfolio/static/js/main.016e2584.js",
+    "main.js": "/dali-portfolio/static/js/main.dc227524.js",
     "static/js/787.fb771931.chunk.js": "/dali-portfolio/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/dali-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/dali-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -32,11 +32,11 @@
     "static/media/arrow1.svg": "/dali-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/dali-portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.8e0bd78d.css.map": "/dali-portfolio/static/css/main.8e0bd78d.css.map",
-    "main.016e2584.js.map": "/dali-portfolio/static/js/main.016e2584.js.map",
+    "main.dc227524.js.map": "/dali-portfolio/static/js/main.dc227524.js.map",
     "787.fb771931.chunk.js.map": "/dali-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e0bd78d.css",
-    "static/js/main.016e2584.js"
+    "static/js/main.dc227524.js"
   ]
 }
