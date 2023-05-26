@@ -21,6 +21,9 @@ export const Footer = () => {
               <a href="https://www.facebook.com/dali.magri.1/"><img src={navIcon2} alt="Icon" /></a>
               <a href="https://www.instagram.com/dali_magri/"><img src={navIcon3} alt="Icon" /></a>
             </div>
+            <br/><br/>
+            <h5>Phone: 94395323</h5>
+            
             
           </Col>
         </Row>
